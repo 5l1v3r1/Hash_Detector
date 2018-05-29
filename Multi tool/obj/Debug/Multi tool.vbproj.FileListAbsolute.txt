@@ -1,0 +1,12 @@
+C:\Users\devflix\source\repos\Multi tool\Multi tool\obj\Debug\Multi_tool.Resources.resources
+C:\Users\devflix\source\repos\Multi tool\Multi tool\obj\Debug\Multi tool.vbproj.GenerateResource.cache
+C:\Users\devflix\source\repos\Multi tool\Multi tool\obj\Debug\Multi tool.vbproj.CoreCompileInputs.cache
+C:\Users\devflix\source\repos\Multi tool\Multi tool\bin\Debug\Multi tool.exe.config
+C:\Users\devflix\source\repos\Multi tool\Multi tool\bin\Debug\Multi tool.exe
+C:\Users\devflix\source\repos\Multi tool\Multi tool\bin\Debug\Multi tool.pdb
+C:\Users\devflix\source\repos\Multi tool\Multi tool\bin\Debug\Multi tool.xml
+C:\Users\devflix\source\repos\Multi tool\Multi tool\obj\Debug\Multi tool.exe
+C:\Users\devflix\source\repos\Multi tool\Multi tool\obj\Debug\Multi tool.xml
+C:\Users\devflix\source\repos\Multi tool\Multi tool\obj\Debug\Multi tool.pdb
+C:\Users\devflix\source\repos\Multi tool\Multi tool\obj\Debug\Multi_tool.Form1.resources
+C:\Users\devflix\source\repos\Multi tool\Multi tool\obj\Debug\Multi tool.vbprojResolveAssemblyReference.cache
